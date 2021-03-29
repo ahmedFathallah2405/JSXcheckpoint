@@ -1,0 +1,8 @@
+.titleRed {
+   text-align: center;
+   color: red;
+   background-color: rgb(88, 4, 4);
+   font-style: italic;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+}
